@@ -1,6 +1,6 @@
 # Retogit
 
-![Imagen del proyecto](imagen.png)
+![Imagen del proyecto](imagen.jpg)
 
 El proyecto trata sobre la utilizacion de github, tanto online como en un repositorio local. Se han realizado varios procesos de push, pull, commit, merge, etc... para comprobar el funcionamiento de la herramienta.
 
