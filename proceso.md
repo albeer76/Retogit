@@ -1,6 +1,8 @@
 # Retogit
 
-el proyecto trata sobre la utilizacion de github, tanto online como en un repositorio local. Se han realizado varios procesos de push, pull, commit, merge, etc... para comprobar el funcionamiento de la herramienta.
+![Imagen del proyecto](imagen.png)
+
+El proyecto trata sobre la utilizacion de github, tanto online como en un repositorio local. Se han realizado varios procesos de push, pull, commit, merge, etc... para comprobar el funcionamiento de la herramienta.
 
 ## Contenido
 
